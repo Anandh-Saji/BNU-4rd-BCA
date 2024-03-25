@@ -3,9 +3,6 @@
    <br> 
 </p>
  
-<div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MsQr6WI.jpeg" width="1200" height="500"/>
-  <p align="center">
  
 </p>
 
@@ -30,6 +27,10 @@ else:
     print(n, "does not belong to the Fibonacci sequence.")
 input(" ")
 ```
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/MsQr6WI.jpeg" width="1200" height="500"/>
+  <p align="center">
+ 
 
 ## PROGRAM 2 
 ## (SOLVE QUADRATIC EQUATION.)
