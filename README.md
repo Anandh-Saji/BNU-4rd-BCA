@@ -28,9 +28,8 @@ else:
 input(" ")
 ```
 <div align="center">
-  <img border-radius: 15px src="(https://i.imgur.com/vFQnp04.jpeg)" width="1200" height="500"/>
+  <img border-radius: 15px src="https://i.imgur.com/vFQnp04.jpeg" width="200" height="200"/>
   <p align="center">
- 
 
 ## PROGRAM 2 
 ## (SOLVE QUADRATIC EQUATION.)
