@@ -56,6 +56,11 @@ else:
     print("the given equation has no real roots") 
 input(" ")
 ```
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/vFQnp04.jpeg" width="1300" height="500"/>
+  <p align="center">
+
+
 ## PROGRAM 3
 ## (FIND THE SUM OF N NATURAL NUMBERS)
 
@@ -65,6 +70,11 @@ sum_of_n_numbers = n * (n+1) // 2
 print(f"The sub of the first {n} natural numbers is: {sum_of_n_numbers}")
 input(" ")
 ```
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/vFQnp04.jpeg" width="1300" height="500"/>
+  <p align="center">
+
+
 ## PROGRAM 4
 ## (DISPLAY MULTIPLICATION TABLE)
 
@@ -93,3 +103,6 @@ else:
      print(f"{n} is not a prime number")
 input(" ") 
 ```
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/vFQnp04.jpeg" width="1300" height="500"/>
+  <p align="center">
