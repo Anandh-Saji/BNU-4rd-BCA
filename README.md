@@ -57,7 +57,7 @@ else:
 input(" ")
 ```
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/Ro6jZfg.jpeg" width="1300" height="500"/>
+  <img border-radius: 15px src="https://i.imgur.com/U7GJgB5.jpeg" width="1300" height="500"/>
   <p align="center">
 
 
