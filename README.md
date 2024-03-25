@@ -85,6 +85,10 @@ for i in range(1,11):
    print (f"{num} x {i} = {num*i}")
 input(" ")
 ```
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/p0hp8xE.jpeg" width="1300" height="500"/>
+  <p align="center">
+
 ## PROGRAM 5
 ## (CHECK ID GIVEN NUMBER IS PRIME OR NOT)
 
