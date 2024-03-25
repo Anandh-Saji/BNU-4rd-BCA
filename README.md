@@ -4,7 +4,7 @@
 </p>
  
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MsQr6WI.jpeg" width="1000" height="400"/>
+  <img border-radius: 15px src="https://i.imgur.com/MsQr6WI.jpeg" width="1200" height="400"/>
   <p align="center">
  
 </p>
