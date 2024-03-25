@@ -71,7 +71,7 @@ print(f"The sub of the first {n} natural numbers is: {sum_of_n_numbers}")
 input(" ")
 ```
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/vFQnp04.jpeg" width="1300" height="500"/>
+  <img border-radius: 15px src="https://i.imgur.com/Ro6jZfg.jpeg" width="1300" height="500"/>
   <p align="center">
 
 
