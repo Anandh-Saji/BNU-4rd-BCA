@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=THIS+IS+A+GITHUB+REPOSITORY;Created+by+Anandh)](https://git.io/typing-svg)
 
-
+   <br> 
 </p>
 
 ```
