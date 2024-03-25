@@ -28,7 +28,7 @@ else:
 input(" ")
 ```
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/MsQr6WI.jpeg" width="1200" height="500"/>
+  <img border-radius: 15px src="[https://i.imgur.com/MsQr6WI.jpeg](https://i.imgur.com/vFQnp04.jpeg)" width="1200" height="500"/>
   <p align="center">
  
 
