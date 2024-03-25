@@ -3,6 +3,10 @@
    <br> 
 </p>
 
+
+  <img border-radius: 15px src="https://i.imgur.com/WuDD2gP.jpeg" width="200" height="200"/>
+
+
 ## PROGRAM 1 
 ## (CECK IF A NUMBER BELONGS TO FIBONACCI SEQUENCE)
 
