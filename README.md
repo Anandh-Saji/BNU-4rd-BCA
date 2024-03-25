@@ -58,3 +58,31 @@ sum_of_n_numbers = n * (n+1) // 2
 print(f"The sub of the first {n} natural numbers is: {sum_of_n_numbers}")
 input(" ")
 ```
+## PROGRAM 4
+## (DISPLAY MULTIPLICATION TABLE)
+
+```
+num = int(input("enter the number: "))
+for i in range(1,11):
+   print (f"{num} x {i} = {num*i}")
+input(" ")
+```
+## PROGRAM 5
+## (CHECK ID GIVEN NUMBER IS PRIME OR NOT)
+
+```
+def is_prime(num):
+    if num <= 1:
+       return False
+    for i in range(2, num):
+        if num % i == 0:
+          return False
+    return True 
+
+n = int(input("Enter a number: "))
+if is_prime(n):
+   print(f"{n} is a prime number")
+else:
+     print(f"{n} is not a prime number")
+input(" ") 
+```
