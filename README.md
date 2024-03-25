@@ -2,7 +2,8 @@
 
    <br> 
 </p>
-##PROGRAM 2 SOLVE QUADRATIC EQUATION.
+
+## PROGRAM 2 SOLVE QUADRATIC EQUATION.
 
 ```
 import math
