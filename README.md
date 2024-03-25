@@ -33,6 +33,7 @@ input(" ")
 
 ## PROGRAM 2 
 ## (SOLVE QUADRATIC EQUATION.)
+</p>
 
 ```
 import math
