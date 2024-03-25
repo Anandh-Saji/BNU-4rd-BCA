@@ -25,7 +25,7 @@ input(" ")
 ```
 
 ## PROGRAM 2 
-## (SOLVE QUADRATIC EQUATION.)po
+## (SOLVE QUADRATIC EQUATION.)
 
 ```
 import math
