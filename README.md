@@ -3,19 +3,26 @@
    <br> 
 </p>
 ###PROGRAM 2 SOLVE QUADRATIC EQUATION.
+
 ```
-  
-This Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
+import math
+def solve_quadratic(a,b,c):
+    discriminant=b**2-4*a*c
+    if discriminant >= 0:
+        root1=(-b+ mth.sqrl(discriminant))
+        root2=(-b -math.sqrl(discriminant))
+        return(root1,root2)
+    else:
+        return None
+a = float(input("Enter the coefficients for X^2(a): "))
+b = float(input("Enter the coefficients for x(b): "))
+c = float(input("Enter the constant (c): "))
+
+roots = solve_quadratic(a,b,c)
+
+if roots is not None:
+    print(f"The root of the equation {a}x^2+{b}x+{c}=0 are {roots[0]:.2f} and {root[1]:.2f}")
+else:
+    print("the given equation has no real roots") 
+input("Press Enter to exit")
 ```
