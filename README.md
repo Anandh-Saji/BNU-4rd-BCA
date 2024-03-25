@@ -3,7 +3,8 @@
    <br> 
 </p>
 
-## PROGRAM 1 (CECK IF A NUMBER BELONGS TO FIBONACCI SEQUENCE)
+## PROGRAM 1 
+## (CECK IF A NUMBER BELONGS TO FIBONACCI SEQUENCE)
 
 ```
 def is_fibonacci(n): 
@@ -23,8 +24,8 @@ else:
 input(" ")
 ```
 
-
-## PROGRAM 2 (SOLVE QUADRATIC EQUATION.)
+## PROGRAM 2 
+## (SOLVE QUADRATIC EQUATION.)
 
 ```
 import math
