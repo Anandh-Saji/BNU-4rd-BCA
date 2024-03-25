@@ -20,7 +20,7 @@ if is_fibonacci(n):
     print(n, "belongs to the Fibonacci sequence.")
 else:
     print(n, "does not belong to the Fibonacci sequence.")
-input("output kittiyille eni enth nokikond erukuvaa..😏")
+input(" ")
 ```
 
 
@@ -46,5 +46,5 @@ if roots is not None:
     print(f"The root of the equation {a}x^2+{b}x+{c}=0 are {roots[0]:.2f} and {root[1]:.2f}")
 else:
     print("the given equation has no real roots") 
-input("Press Enter to exit")
+input(" ")
 ```
